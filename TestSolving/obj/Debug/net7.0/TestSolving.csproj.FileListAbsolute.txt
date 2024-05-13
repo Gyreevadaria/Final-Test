@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\FinalTest1\TestSolving\bin\Debug\net7.0\TestSolving.exe
+C:\Users\User\Desktop\FinalTest1\TestSolving\bin\Debug\net7.0\TestSolving.deps.json
+C:\Users\User\Desktop\FinalTest1\TestSolving\bin\Debug\net7.0\TestSolving.runtimeconfig.json
+C:\Users\User\Desktop\FinalTest1\TestSolving\bin\Debug\net7.0\TestSolving.dll
+C:\Users\User\Desktop\FinalTest1\TestSolving\bin\Debug\net7.0\TestSolving.pdb
+C:\Users\User\Desktop\FinalTest1\TestSolving\obj\Debug\net7.0\TestSolving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FinalTest1\TestSolving\obj\Debug\net7.0\TestSolving.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FinalTest1\TestSolving\obj\Debug\net7.0\TestSolving.AssemblyInfo.cs
+C:\Users\User\Desktop\FinalTest1\TestSolving\obj\Debug\net7.0\TestSolving.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalTest1\TestSolving\obj\Debug\net7.0\TestSolving.dll
+C:\Users\User\Desktop\FinalTest1\TestSolving\obj\Debug\net7.0\refint\TestSolving.dll
+C:\Users\User\Desktop\FinalTest1\TestSolving\obj\Debug\net7.0\TestSolving.pdb
+C:\Users\User\Desktop\FinalTest1\TestSolving\obj\Debug\net7.0\TestSolving.genruntimeconfig.cache
+C:\Users\User\Desktop\FinalTest1\TestSolving\obj\Debug\net7.0\ref\TestSolving.dll
